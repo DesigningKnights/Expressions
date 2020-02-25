@@ -14,7 +14,7 @@ plugins {
 }
 
 group 'com.designingknights.expressions'
-version '0.0.1'
+version '0.0.3'
 
 apply plugin: 'kotlin'
 
